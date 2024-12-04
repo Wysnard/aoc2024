@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "radash": "^12.1.0"
+  },
+  "name": "day1",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "dev": "bun run --watch index.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
